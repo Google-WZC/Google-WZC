@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm from China. My name is Wang Zichen, and my English name is Steven. I was born in 2003 and am currently a master's student in Changsha.
+I'm from China. My name is Wang Zichen. You can also call me Zachary. I was born in 2003 and am currently a master's student in Changsha.
 
 I used to be in Department of Communication, however, researching AI. I am now a graduate student in integrated circuits. I like to do things I consider elegant, like publishing a top journal, solving a problem others haven't, or even achieving the mythical man-month. But I haven't achieved any of those things yet. So I keep studying hard.
 

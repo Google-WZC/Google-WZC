@@ -11,3 +11,4 @@ My daily research focuses on hardware security and acceleration. Although I firs
 My website here [https://zichenwang.mysxl.cn/]. My domestic technical account is based on the CSDN platform [https://blog.csdn.net/Shadow_King_158]. I will occasionally post some technical blogs, but they are quite basic. If you think my work is helpful to you, please don't hesitate to give me a star as an encouragement to a pessimistic struggler. Let's see what I've done since then:
 
 I have made a merged in [https://github.com/ranxian/xv6-chinese] in chapter0
+find a BUG in vscode Typora plug-in [https://github.com/cweijan/vscode-database-client/issues/1702]
